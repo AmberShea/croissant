@@ -1,3 +1,10 @@
 h1 {
     text-align:center
 }
+body {
+    color: #F8E8A6;
+}
+footer {
+    text-align: center;
+    color: green;
+}
